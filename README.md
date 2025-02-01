@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS , Python , C++ , MongoDB**
 
-- 📝 LinkedIN www.linkedin.com/in/ lacki-lohar-🇮🇳-463a23321
+- 📝 LinkedIN www.linkedin.com/in/lacki-lohar-🇮🇳-463a23321
 
 - 📫 How to reach me **luckykanti31122006@gmail.com**
 
