@@ -97,20 +97,6 @@ Consistent, curious, and always ready for <b style="font-family: 'JetBrains Mono
   <img src="https://github-contributor-stats.vercel.app/api?username=lucky-panchal&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true" width="500" />
 </p>
 
-<!-- ====================== Animated Heart ====================== -->
-
-<!-- Pure CSS-style animated heart code with inline animation using <span> -->
-<p align="center" style="margin-top:50px;">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Animated Pulsating Heart" width="50" height="50" />
-</p>
-
-
-<style>
-@keyframes pop {
-  0% { transform: scale(1) }
-  100% { transform: scale(1.3) }
-}
-</style>
 
 <!-- ====================== Ending Typing SVG Motive ====================== -->
 
