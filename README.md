@@ -101,10 +101,9 @@ Consistent, curious, and always ready for <b style="font-family: 'JetBrains Mono
 
 <!-- Pure CSS-style animated heart code with inline animation using <span> -->
 <p align="center" style="margin-top:50px;">
-  <span style="display:inline-block; font-size: 50px; color: #e0245e; animation: pop 1s ease infinite alternate; transform-origin: center;">
-    ❤
-  </span>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Animated Pulsating Heart" width="50" height="50" />
 </p>
+
 
 <style>
 @keyframes pop {
