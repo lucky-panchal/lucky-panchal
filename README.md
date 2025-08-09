@@ -1,123 +1,121 @@
 <div align="center">
 
-<!-- Animated typing SVG for introduction -->
+<!-- Top-typewriter effect (Typing SVG) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=1000&color=4F8EFF&center=true&width=500&height=45&lines=Hi+there!+I%E2%80%99m+Lucky+Panchal;Welcome+to+my+GitHub+Profile!;Always+learning,+always+building..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=700&color=1976D2&background=FFFFFF00&center=true&width=540&lines=%F0%9F%98%8E+Hi%2C+I'm+Lucky+Panchal!;%F0%9F%91%8B+Welcome+to+my+Interactive+Profile!;Coding+is+my+superpower!;Let's+learn%2C+build%2C+and+connect." alt="Typing SVG" />
 </p>
 
-<br>
-
-<!-- Animated coding GIF -->
+<!-- Animated bouncing developer GIF (fun!) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding GIF" />
+  <img src="https://assets10.lottiefiles.com/packages/lf20_mjlh3hcy.json" alt="Bouncing Coder Animation" height="150" />
 </p>
 
----
+<!-- --------------------------------------------------------------------- -->
 
-## <span style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 18px;">About Me</span>
+<h2 align="center" style="font-family: 'Fira Code', monospace; font-size: 22px;">
+  <span style="color:#1976D2"><b>About Me</b></span>
+</h2>
 
-<p style="font-family: 'Arial', sans-serif; font-size: 14px; max-width: 700px; text-align: center;">
-Motivated and detail-oriented <strong style="font-family: 'Georgia', serif;">Computer Science</strong> student pursuing B.Tech in CSE at <em>Rai University, Ahmedabad (NAAC accredited)</em>. I have a strong foundation in web and app development, with expertise in front-end technologies including <span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;">React.js</span>, <span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;">Next.js</span>, HTML, CSS, and JavaScript.
-
-Experienced with NoSQL databases, version control (<i>Git, GitHub</i>), UI/UX design (Figma), and cloud platforms (Firebase, Netlify, Vercel, Render). 
-
-Currently exploring mobile app development with <span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;">React Native</span> and deepening my understanding of data structures and algorithms.
-
-I take pride in being consistent, reliable, and highly committed—delivering high-quality results on or ahead of deadlines. Whether working independently or collaboratively, I bring a proactive mindset and strong sense of responsibility.
-
-Always eager to learn, grow, and contribute to impactful tech projects. Open for collaboration and internship opportunities.
+<p align="center" style="font-size:16px; font-family: 'Segoe UI', sans-serif;">
+<strong style="font-size:18px; color:#1565C0">Motivated</strong> and <span style="color:#388E3C;"><b>detail-oriented</b></span> Computer Science student (B.Tech – <i>Rai University, Ahmedabad</i>).<br>
+<b style="color:#00C853">Currently Enhance:</b> <span style="font-family: 'Fira Code', monospace; color:#0288D1;">React Native</span>&nbsp;|&nbsp;<span style="font-family: 'Fira Code', monospace; color:#FFF176;">DSA</span><br>
+<b style="color:#AB47BC">Expertise:</b> Frontend (React.js, Next.js, HTML, CSS, JS), UI/UX (Figma), Cloud (Firebase, Vercel, Render)<br>
+<b style="font-size:17px; color:#FF8A65">Consistent</b>, <b style="color:#D81B60">curious</b>, and always ready for <span style="font-family: 'JetBrains Mono', monospace; background:#212121; color:#FFD600;">collaboration</span>!
 </p>
 
----
+<!-- --------------------------------------------------------------------- -->
 
-## <span style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 18px;">Connect with Me</span>
-
-<p>
-<a href="https://instagram.com/luckyp4nch4l" target="_blank" rel="noopener noreferrer" style="text-decoration:none; font-family: 'Lucida Console', Monaco, monospace; font-size: 14px; color:#E4405F;">
-  Instagram
-</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://linkedin.com/in/lacki-lohar-463a23321" target="_blank" rel="noopener noreferrer" style="text-decoration:none; font-family: 'Lucida Console', Monaco, monospace; font-size: 14px; color:#0077B5;">
-  LinkedIn
-</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="mailto:luckykanti31122006@gmail.com" style="text-decoration:none; font-family: 'Lucida Console', Monaco, monospace; font-size: 14px; color:#D14836;">
-  Email
-</a>
-</p>
-
----
-
-## <span style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 18px;">Tech Stack</span>
-
-<p style="max-width: 700px;">
-<!-- Use badge styles for neatness -->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-</p>
-
----
-
-## <span style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 18px;">GitHub Stats</span>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=lucky-panchal&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false" width="380" alt="GitHub Stats" />
-</p>
-
-<p>
-<img src="https://nirzak-streak-stats.vercel.app/?user=lucky-panchal&theme=graywhite&hide_border=true" width="380" alt="Streak Stats" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-panchal&theme=graywhite&hide_border=true&layout=compact" width="380" alt="Top Languages" />
-</p>
-
----
-
-## <span style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 18px;">GitHub Trophies</span>
-
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=lucky-panchal&theme=flag-india&no-frame=true&no-bg=true&margin-w=4" width="700" alt="GitHub Trophies" />
-</p>
-
----
-
-## <span style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 18px;">Developer Quote</span>
-
-<p>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" width="400" alt="Dev Quote" />
-</p>
-
----
-
-## <span style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 18px;">Top Contributed Repositories</span>
-
-<p>
-<img src="https://github-contributor-stats.vercel.app/api?username=lucky-panchal&limit=5&theme=dark&combine_all_yearly_contributions=true" width="500" alt="Top Repos" />
-</p>
-
----
-
+<h2 align="center" style="font-family: 'Fira Code', monospace; color:#0288D1">
+  Connect with Me
+</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7912C&center=true&width=435&lines=Let%E2%80%99s+connect+and+create+amazing+things!;Happy+coding!+%F0%9F%91%BB" alt="Motivational Ending SVG" />
-</p>
-
-<p>
-  <a href="https://visitcount.itsvg.in/api?id=lucky-panchal&icon=10&color=4" target="_blank" rel="noopener noreferrer">
-    <img src="https://visitcount.itsvg.in/api?id=lucky-panchal&icon=10&color=4" alt="Profile Visit Count" />
+  <a href="https://instagram.com/luckyp4nch4l">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/lacki-lohar-463a23321">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:luckykanti31122006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Animated divider using fade effect SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucky-panchal/lucky-panchal/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;" />
+</p>
+
+<!-- --------------------------------------------------------------------- -->
+
+<h2 align="center" style="font-family: 'JetBrains Mono', monospace; font-size: 22px; color:#388E3C;">
+  Tech Stack 🚀
+</h2>
+
+<p align="center">
+<!-- All badges with 'for-the-badge' big & vibrant, bounce look -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,mongodb,mysql,redux,figma,git,github,firebase,vercel,netlify,postman" />
+</p>
+
+<!-- Animated progress bar SVG [simulated loading!] -->
+<p align="center">
+  <img src="https://gist.githubusercontent.com/AswinBarath/8b0595fe5e7a2257d568203c8da8826b/raw/6dac90e09c85938da0bcb45b943db9fb5a283b4d/progress-bar-green.svg" width="400" alt="Animated Progress Bar"/>
+</p>
+
+<!-- --------------------------------------------------------------------- -->
+
+<h2 align="center" style="font-family: 'Fira Code', monospace; font-size: 22px;">
+  GitHub Stats & Insights
+</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lucky-panchal&theme=radical&hide_border=true&show_icons=true&title_color=00BFAE&icon_color=FFD600&count_private=true" width="380" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-panchal&theme=radical&hide_border=true" width="380"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-panchal&langs_count=7&theme=radical&layout=compact&hide_border=true" width="400"/>
+</p>
+
+<!-- --------------------------------------------------------------------- -->
+
+<h2 align="center" style="font-family: 'Comic Sans MS', cursive; font-size: 22px; color:#FFAB00;">
+  Trophies & Highlights
+</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucky-panchal&theme=onestar&margin-w=8&no-frame=true&no-bg=true" width="830" />
+</p>
+
+<!-- --------------------------------------------------------------------- -->
+
+<h2 align="center" style="font-family: 'JetBrains Mono', monospace; font-size: 22px; color:#3949AB;">
+  Inspiration Board
+</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="400" />
+</p>
+<p align="center">
+  <strong style="font-family:'Fira Code',monospace;font-size:18px;color:#00B8D4;">"Be curious, connect, code, repeat."</strong>
+</p>
+
+<!-- --------------------------------------------------------------------- -->
+
+<h2 align="center" style="font-family: 'Fira Code', monospace; font-size: 22px; color:#D81B60;">
+  Top Contributed Repos
+</h2>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=lucky-panchal&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true" width="500" />
+</p>
+
+<!-- Animated Typing Motive at Bottom -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7912C&background=FFFFFF00&center=true&width=400&lines=%3E+Let%27s+connect+and+create+amazing+things!;%3E+Happy+coding+and+keep+leveling+up+💻🚀" alt="Ending Typing SVG" />
+</p>
+
+<!-- Profile views and copyright -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=lucky-panchal&icon=5&color=4" alt="Profile Visit Count" />
+  <br>
+  <span style="font-family:'Fira Mono',monospace;font-size:12px;color:#757575;">Proudly built with <b>passion</b> and ☕<br/>Inspired by the open-source community</span>
+</p>
+
+<!--
+  Note: Real CSS is not allowed on GitHub profiles, so font/color highlights only simulate with HTML tags and badge/SVG color tricks.
+-->
 
 </div>
