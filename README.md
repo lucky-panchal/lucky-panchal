@@ -97,20 +97,28 @@ Consistent, curious, and always ready for <b style="font-family: 'JetBrains Mono
   <img src="https://github-contributor-stats.vercel.app/api?username=lucky-panchal&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true" width="500" />
 </p>
 
+<!-- ====================== Animated Heart ====================== -->
+
+<!-- Pure CSS-style animated heart code with inline animation using <span> -->
+<p align="center" style="margin-top:50px;">
+  <span style="display:inline-block; font-size: 50px; color: #e0245e; animation: pop 1s ease infinite alternate; transform-origin: center;">
+    ❤
+  </span>
+</p>
+
+<style>
+@keyframes pop {
+  0% { transform: scale(1) }
+  100% { transform: scale(1.3) }
+}
+</style>
+
 <!-- ====================== Ending Typing SVG Motive ====================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7912C&background=FFFFFF00&center=true&width=400&lines=%3E+Let's+connect+and+create+amazing+things!;%3E+Happy+coding+and+keep+leveling+up+%F0%9F%92%BB%F0%9F%9A%80" alt="Ending Typing SVG" />
+<p align="center" style="margin-top:40px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7912C&background=FFFFFF00&center=true&width=450&lines=%3E+Thank+you+for+visiting+my+profile!;%3E+Have+a+great+day+%F0%9F%98%8A" alt="Thank You Typing SVG" />
 </p>
 
 <br/>
-
-<!-- ====================== Profile Views and Footer ====================== -->
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=lucky-panchal&icon=5&color=4" alt="Profile Visit Count" />
-  <br>
-  <span style="font-family:'Fira Mono',monospace;font-size:13px;color:#757575;">Proudly built with <b>passion</b> and ☕<br/>Inspired by the open-source community</span>
-</p>
 
 </div>
