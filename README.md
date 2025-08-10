@@ -53,7 +53,7 @@ Consistent, curious, and always ready for <b style="font-family: 'JetBrains Mono
 
 <!-- Heart svg-->
 <p align="center" width="100%">
-  <img src="https://raw.githubusercontent.com/lucky-panchal/luckypanchal/README.md/main/path/to/heart-svgrepo-com.jpg" alt="Smiling Heart" width="160"/>
+  <img src="https://heart-svgrepo-com.jpg" alt="Smiling Heart" width="160"/>
 </p>
 <p align="center"><b>
 Let your smile be the brightest line of code you write today.<br>
