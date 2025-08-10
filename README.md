@@ -49,6 +49,18 @@ Consistent, curious, and always ready for <b style="font-family: 'JetBrains Mono
 </p>
 
 ---
+<br>
+
+<!-- Heart svg-->
+<p align="center" width="100%">
+  <img src="https://raw.githubusercontent.com/lucky-panchal/luckypanchal/README.md/main/path/to/heart-svgrepo-com.jpg" alt="Smiling Heart" width="160"/>
+</p>
+<p align="center"><b>
+Let your smile be the brightest line of code you write today.<br>
+A simple smile can spark creativity, connect us as coders, and turn any bug into a learning adventure.<br>
+Keep smiling—your code (and your heart) will thank you!
+</b></p>
+<br>
 
 <!-- ====================== Tech Stack ====================== -->
 
