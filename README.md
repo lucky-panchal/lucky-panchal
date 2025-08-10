@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typewriter SVG headline -->
-<p align="center" width="100%">
+<p align="center" width="200%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1976D2&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lacki+Lohar!;Welcome+to+my+GitHub+Profile!;React+Native+%7C+Frontend+Developer+%7C+Open+Source+Enthusiast;Let%27s+build+amazing+things+together!" alt="Typing SVG" />
 </p>
 
