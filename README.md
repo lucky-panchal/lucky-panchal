@@ -44,22 +44,12 @@ Consistent, curious, and always ready for <b style="font-family: 'JetBrains Mono
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://lackilohar.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" />
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" />
+</a>
+
 </p>
 
 ---
-<br>
-
-<!-- Heart svg-->
-<p align="center" width="100%">
-  <img src="https://heart-svgrepo-com.svg" alt="Smiling Heart" width="160"/>
-</p>
-<p align="center"><b>
-Let your smile be the brightest line of code you write today.<br>
-A simple smile can spark creativity, connect us as coders, and turn any bug into a learning adventure.<br>
-Keep smiling—your code (and your heart) will thank you!
-</b></p>
 <br>
 
 <!-- ====================== Tech Stack ====================== -->
