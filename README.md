@@ -43,9 +43,10 @@ Consistent, curious, and always ready for <b style="font-family: 'JetBrains Mono
   <a href="mailto:luckykanti31122006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://lackilohar.netlify.app">
-  <img src="https://i.ibb.co/HNsRG2F/Whats-App-Image-2025-08-10-at-14-20-23.jpg" alt="Portfolio GIF" />
+ <a href="https://lackilohar.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" />
 </a>
+
 
 </p>
 
