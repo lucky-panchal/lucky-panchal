@@ -86,7 +86,6 @@ const lacki = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-panchal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-panchal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucky-panchal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff" width="48%" />
 
 </div>
 
@@ -108,8 +107,6 @@ const lacki = {
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" width="500"/>
 
-### **My Developer Mantra**
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=💻+Code+with+Passion;🚀+Build+with+Purpose;🌟+Learn+Continuously;🤝+Collaborate+Effectively;⚡+Innovate+Fearlessly" alt="Mantra Typing SVG" />
 
 </div>
 
