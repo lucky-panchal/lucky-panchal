@@ -175,8 +175,6 @@ Other        25 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Let's+build+something+amazing!+💡;Always+open+to+collaborate!+🤝;Happy+Coding!+⚡" alt="Thank You Typing SVG" />
-
 ### **⭐ If you like my work, consider giving my repos a star!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
