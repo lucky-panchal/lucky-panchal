@@ -1,118 +1,195 @@
 <div align="center">
 
-<!-- Animated typewriter SVG headline -->
-<br>
-<p align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1976D2&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lacki+Lohar!;Welcome+to+my+GitHub+Profile!;React+Native+%7C+Frontend+Developer+%7C+Open+Source+Enthusiast;Let's+build+amazing+things+together!" alt="Typing SVG" />
-</p>
-<br>
-<br>
+<!-- Dynamic Header with Matrix Effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Lacki%20Lohar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20React%20Native%20Expert&descAlignY=55&descSize=18"/>
 
+<!-- Animated Typewriter with Enhanced Styling -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👋+Hi%2C+I'm+Lacki+Lohar!;🚀+React+Native+%7C+Frontend+Developer;💡+Building+Digital+Experiences;🌟+Open+Source+Enthusiast;⚡+Let's+Code+Something+Amazing!" alt="Typing SVG" />
 
+<!-- Interactive Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=lucky-panchal&label=Profile%20Views&color=22c55e&style=for-the-badge" alt="Profile Views" />
 
+<!-- Animated Coding GIF with Border -->
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
 
-<!-- Engaging coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding GIF" />
-</p>
-
-<!-- ====================== About Me ====================== -->
-
-<h1 style="font-family: 'Fira Code', monospace; font-size: 36px;">About Me</h1>
-
-<p style="font-size: 17px;">
-Motivated and <b>detail-oriented</b> <tt>Computer Science</tt> student (B.Tech – Rai University, Ahmedabad).<br>
-<b>Currently Enhancing:</b> <span style="font-family: 'Fira Code', monospace;">React Native</span>, <span style="font-family: 'Fira Code', monospace;">DSA</span><br>
-<b>Expertise:</b> Frontend (React.js, Next.js, HTML, CSS, JS), UI/UX (Figma), Cloud (Firebase, Vercel, Render)<br>
-Consistent, curious, and always ready for <b style="font-family: 'JetBrains Mono', monospace;">collaboration!</b>
-</p>
+</div>
 
 ---
 
-<!-- ====================== Socials ====================== -->
+## 🚀 **About Me**
 
-<h2 style="font-family: 'Arial Black', Arial, sans-serif;">Connect with Me</h2>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250">
 
-<p align="center">
-  <a href="https://instagram.com/luckyp4nch4l">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/lacki-lohar-463a23321">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:luckykanti31122006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
- <a href="https://lackilohar.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" />
-</a>
+```javascript
+const lacki = {
+    name: "Lacki Lohar",
+    role: "Full Stack Developer",
+    education: "B.Tech - Rai University, Ahmedabad",
+    currentFocus: ["React Native", "DSA", "System Design"],
+    expertise: {
+        frontend: ["React.js", "Next.js", "TypeScript", "Tailwind"],
+        backend: ["Node.js", "Express", "MongoDB", "MySQL"],
+        mobile: ["React Native", "Expo"],
+        design: ["Figma", "UI/UX"],
+        cloud: ["Firebase", "Vercel", "Netlify", "Render"]
+    },
+    motto: "Code with passion, build with purpose! 🚀"
+};
+```
 
-
-</p>
-
----
-<br>
-
-<!-- ====================== Tech Stack ====================== -->
-
-<h2 style="font-family:'Fira Code',monospace;">Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,mongodb,mysql,redux,figma,git,github,firebase,vercel,netlify,postman,latex,java,cpp,c,express,vscode,powershell,expo,render,jwt,storybook,sass" />
-</p>
+<br clear="right"/>
 
 ---
 
-<!-- ====================== GitHub Stats & Insights ====================== -->
+## 🌐 **Connect & Collaborate**
 
-<h2 style="font-family:'Georgia',serif;">GitHub Stats & Insights</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucky-panchal&theme=radical&hide_border=true&show_icons=true&title_color=00BFAE&icon_color=FFD600&count_private=true" width="380" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-panchal&theme=radical&hide_border=true" width="380"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-panchal&langs_count=7&theme=radical&layout=compact&hide_border=true" width="400"/>
-</p>
+### **Let's Build Something Amazing Together!**
 
----
+[![Instagram](https://img.shields.io/badge/📸_Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luckyp4nch4l)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lacki-lohar-463a23321)
+[![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckykanti31122006@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-Visit_Now-22C55E?style=for-the-badge&logo=firefox&logoColor=white)](https://lackilohar.netlify.app)
 
-<!-- ====================== Trophies ====================== -->
-
-<h2 style="font-family:'Impact',Charcoal,sans-serif;">Trophies & Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucky-panchal&theme=onestar&margin-w=8&no-frame=true&no-bg=true" width="800" />
-</p>
+</div>
 
 ---
 
-<!-- ====================== Quotes & Inspiration ====================== -->
+## 🛠️ **Tech Arsenal**
 
-<h2 style="font-family: 'Lucida Handwriting', cursive; color:#00B8D4;">Quotes & Inspiration</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="400" />
-</p>
-<p align="center" style="font-size:18px; font-style:italic; color:#00796B;">
-  "Be curious. Connect. Code. Repeat."
-</p>
+### **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express" />
+
+### **Databases & Tools**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,figma,vscode,postman" />
+
+### **Cloud & Deployment**
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render,expo,docker,aws" />
+
+### **Programming Languages**
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,redux,sass,storybook,jwt" />
+
+</div>
 
 ---
 
-<!-- ====================== Top Contributed Repos ====================== -->
+## 📊 **GitHub Analytics**
 
-<h2 style="font-family:'Fira Code',monospace;">Top Contributed&nbsp;Repos</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=lucky-panchal&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true" width="500" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky-panchal&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" width="100%"/>
 
+<br><br>
 
-<!-- ====================== Ending Typing SVG Motive ====================== -->
+<img src="https://github-readme-stats.vercel.app/api?username=lucky-panchal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-panchal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" width="48%" />
 
-<p align="center" style="margin-top:40px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7912C&background=FFFFFF00&center=true&width=450&lines=%3E+Thank+you+for+visiting+my+profile!;%3E+Have+a+great+day+%F0%9F%98%8A" alt="Thank You Typing SVG" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-panchal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucky-panchal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff" width="48%" />
 
-<br/>
+</div>
+
+---
+
+## 🏆 **Achievements & Trophies**
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lucky-panchal&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%" />
+
+</div>
+
+---
+
+## 💡 **Daily Inspiration**
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" width="500"/>
+
+### **My Developer Mantra**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=💻+Code+with+Passion;🚀+Build+with+Purpose;🌟+Learn+Continuously;🤝+Collaborate+Effectively;⚡+Innovate+Fearlessly" alt="Mantra Typing SVG" />
+
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky-panchal&custom_title=Lacki's%20Contribution%20Graph&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area_color=22c55e&area=true&hide_border=true&theme=github-compact" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 **Current Focus**
+
+<div align="center">
+
+| 🔥 **Learning** | 🚀 **Building** | 💡 **Exploring** |
+|:---:|:---:|:---:|
+| React Native Advanced | Portfolio Projects | AI Integration |
+| System Design | Open Source Contributions | Web3 Technologies |
+| DSA Mastery | Mobile Applications | Cloud Architecture |
+
+</div>
+
+---
+
+## 📊 **Weekly Development Breakdown**
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.2%
+React        5 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.7%
+CSS          2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.8%
+HTML         1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    6.9%
+Other        25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    2.4%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🎮 **Fun Facts About Me**
+
+<div align="center">
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
+
+- 🌱 Currently mastering **React Native** & **System Design**
+- 💬 Ask me about **React**, **JavaScript**, **UI/UX Design**
+- ⚡ Fun fact: I debug with `console.log()` and I'm proud of it!
+- 🎯 2024 Goal: Contribute to more **Open Source** projects
+- 🎨 I love creating **pixel-perfect** user interfaces
+- ☕ Powered by coffee and curiosity!
+
+</div>
+
+---
+
+## 🌟 **Let's Connect & Build Together!**
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Let's+build+something+amazing!+💡;Always+open+to+collaborate!+🤝;Happy+Coding!+⚡" alt="Thank You Typing SVG" />
+
+### **⭐ If you like my work, consider giving my repos a star!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+
+</div>
+
+<!-- Dynamic Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling"/>
 
 </div>
