@@ -4,10 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Lacki%20Lohar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20React%20Expert&descAlignY=55&descSize=18"/>
 
 
-<img width="100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=12&height=200&section=header&text=Lacki%20Lohar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20React%20Expert&descAlign=60"/>
-
-
-
 <!-- Interactive Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=lucky-panchal&label=Profile%20Views&color=22c55e&style=for-the-badge" alt="Profile Views" />
 
