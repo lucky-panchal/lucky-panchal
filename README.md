@@ -90,15 +90,6 @@ const lacki = {
 
 </div>
 
----
-
-## 🏆 **Achievements & Trophies**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucky-panchal&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%" />
-
-</div>
 
 ---
 
@@ -111,15 +102,6 @@ const lacki = {
 
 </div>
 
----
-
-## 📈 **Contribution Graph**
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky-panchal&custom_title=Lacki's%20Contribution%20Graph&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area_color=22c55e&area=true&hide_border=true&theme=github-compact" width="100%"/>
-
-</div>
 
 ---
 
