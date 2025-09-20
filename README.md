@@ -1,6 +1,7 @@
 <div align="center">
 
 
+
 <!-- Dynamic Header with Matrix Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Lacki%20Lohar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20React%20Expert&descAlignY=55&descSize=18"/>
 
