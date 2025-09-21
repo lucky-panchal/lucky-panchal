@@ -68,10 +68,10 @@ const lacki = {
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,figma,vscode,postman" />
 
 ### **Cloud & Deployment**
-<img src="https://skillicons.dev/icons?i=vercel,netlify,render,expo,docker,aws" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render,expo,docker" />
 
 ### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,redux,sass,storybook,jwt" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,redux,jwt" />
 
 </div>
 
