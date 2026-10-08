@@ -1,0 +1,19 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# rembg model cache (never commit — 4.5 MB+ per model)
+.rembg/
+
+# Source font (only the subsetted woff2 files are needed)
+scripts/fonts/JetBrainsMono-Regular.ttf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Photo source (optional: keep if you want to regen portrait via action)
+# photo.png
