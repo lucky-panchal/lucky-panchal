@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Lacki Lohar"/>
+<img src="./ascii.svg" width="620" alt="Lacki Lohar"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
