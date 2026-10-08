@@ -11,9 +11,7 @@
 
 </div>
 
-<div align="center">
 <img src="./hd-about.svg" width="620" alt="about"/>
-</div>
 
 > CSE undergrad · 3rd year · Ahmedabad, Gujarat.<br>
 > See you at the TOP - the bottom is too CROWDED.
@@ -23,16 +21,11 @@ focused on shipping production-grade systems: from intelligent web apps to<br>
 AI-integrated platforms. I don't just study concepts — I build things<br>
 that work, scale, and solve real problems.
 
-<div align="center">
 <img src="./hd-stack.svg" width="620" alt="stack"/>
-<p>
-<samp>python &nbsp;·&nbsp; javascript &nbsp;·&nbsp; react &nbsp;·&nbsp; node.js &nbsp;·&nbsp; express &nbsp;·&nbsp; mongodb &nbsp;·&nbsp; django &nbsp;·&nbsp; html &nbsp;·&nbsp; css &nbsp;·&nbsp; git &nbsp;·&nbsp; linux</samp>
-</p>
-</div>
 
-<div align="center">
+<samp>python &nbsp; javascript &nbsp; react &nbsp; node.js &nbsp; express &nbsp; mongodb &nbsp; django &nbsp; html &nbsp; css &nbsp; git &nbsp; linux</samp>
+
 <img src="./hd-projects.svg" width="620" alt="projects"/>
-</div>
 
 **[mAInu](https://github.com/lucky-panchal/mAInu)** &nbsp;·&nbsp; <samp>javascript, react, node.js</samp><br>
 AI-powered conversational assistant built as a full-stack product.<br>
@@ -50,9 +43,9 @@ removal and post-processing — zero manual editing required.
 Production client website for a sustainable bio-coal enterprise.<br>
 Clean, responsive, and shipped to real users.
 
-<div align="center">
-
 <img src="./hd-stats.svg" width="620" alt="stats"/>
+
+<div align="center">
 
 <img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
@@ -62,12 +55,10 @@ Clean, responsive, and shipped to real users.
 
 </div>
 
-<div align="center">
 <img src="./hd-connect.svg" width="620" alt="connect"/>
 
-<p>
-I'm always open to collaborating on ambitious projects, AI experiments, or anything that ships to real users.
-</p>
+> I'm always open to collaborating on ambitious projects, AI experiments,<br>
+> or anything that ships to real users.
 
 **[luckykanti31122006@gmail.com](mailto:luckykanti31122006@gmail.com)**
 &nbsp;·&nbsp; [lackilohar.netlify.app](https://lackilohar.netlify.app)
@@ -79,5 +70,3 @@ I'm always open to collaborating on ambitious projects, AI experiments, or anyth
 <code>ascii.svg</code> is drawn by <a href="scripts/make_portrait.py"><code>scripts/make_portrait.py</code></a>;
 the stats are pulled from the GitHub GraphQL API by <a href=".github/workflows/stats.yml">a nightly workflow</a>,<br>
 committed only when numbers change. Nothing here can rate-limit or go dark.</sub>
-
-</div>

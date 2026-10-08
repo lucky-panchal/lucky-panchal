@@ -1,4 +1,4 @@
-﻿"""
+"""
 generate_stats.py
 Pulls GitHub GraphQL stats and renders SVG graphics:
   stats.svg   - total contributions + weekly sparkline
@@ -47,7 +47,16 @@ def embed_font(name):
 def style_block(extra=""):
     css = embed_font("basic")
     return (f"<style>{css}{extra}"
-            f"text{{font-family:{FONT_FAM};fill:{FG};}}"
+            f"text{{font-family:{FONT_FAM};fill:#6e7681;}}"
+            f".bar{{fill:#6e7681;}}"
+            f".dim{{fill:#888888;}}"
+            f"line{{stroke:#d0d7de;stroke-width:0.5;}}"
+            f"@media(prefers-color-scheme:dark){{"
+            f"text{{fill:#c9d1d9;}}"
+            f".bar{{fill:#c9d1d9;}}"
+            f".dim{{fill:#8b949e;}}"
+            f"line{{stroke:#30363d !important;}}"
+            f"}}"
             f"</style>")
 
 # ── Date window ─────────────────────────────────────────────────────────────
@@ -146,16 +155,16 @@ def svg_wrap(w, h, body, extra_style=""):
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" '
             f'viewBox="0 0 {w} {h}">'
             f'{style_block(extra_style)}'
-            f'<rect width="{w}" height="{h}" fill="{BG}"/>'
             f'{body}</svg>')
 
-def label(x, y, txt, size=11, color=None, anchor="start"):
-    col = color or FG
-    return f'<text x="{x}" y="{y}" font-size="{size}" fill="{col}" text-anchor="{anchor}">{txt}</text>'
+def label(x, y, txt, size=11, color=None, anchor="start", cls=""):
+    c = f' fill="{color}"' if color else ""
+    k = f' class="{cls}"' if cls else ""
+    return f'<text x="{x}" y="{y}" font-size="{size}"{c}{k} text-anchor="{anchor}">{txt}</text>'
 
 def hairline(x1, y1, x2, y2, color=None):
-    c = color or "#e0e0e0"
-    return f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{c}" stroke-width="0.5"/>'
+    c = f' stroke="{color}"' if color else ""
+    return f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}"{c}/>'
 
 # ════════════════════════════════════════════════════════════════════════════
 # 1. stats.svg  — total + sparkline
@@ -175,14 +184,14 @@ for i, v in enumerate(wt):
     bh = int((v / mx) * spark_h)
     bx = sparkline_x + i * bar_w
     by = spark_top + spark_h - bh
-    bars += f'<rect x="{bx:.1f}" y="{by}" width="{bar_w-1:.1f}" height="{bh}" fill="{ACCENT}"/>'
+    bars += f'<rect class="bar" x="{bx:.1f}" y="{by}" width="{bar_w-1:.1f}" height="{bh}"/>'
 
 body = (
     label(20, 38, f"{total:,}", size=32) +
-    label(20, 54, "contributions · past year", size=10, color=DIM) +
+    label(20, 54, "contributions · past year", size=10, cls="dim") +
     hairline(sparkline_x-10, spark_top-4, sparkline_x-10, spark_top+spark_h+4) +
     bars +
-    label(sparkline_x, spark_top+spark_h+14, "weekly activity — past 52 weeks", size=9, color=DIM)
+    label(sparkline_x, spark_top+spark_h+14, "weekly activity — past 52 weeks", size=9, cls="dim")
 )
 (ROOT / "stats.svg").write_text(svg_wrap(W, H, body), encoding="utf-8")
 print("stats.svg written")
@@ -195,9 +204,9 @@ half = W // 2
 
 def streak_block(x, num, label_txt, sub):
     return (
-        f'<text x="{x+half//2}" y="36" font-size="30" text-anchor="middle" fill="{FG}">{num}</text>'
-        f'<text x="{x+half//2}" y="52" font-size="10" text-anchor="middle" fill="{FG}">{label_txt}</text>'
-        f'<text x="{x+half//2}" y="66" font-size="9"  text-anchor="middle" fill="{DIM}">{sub}</text>'
+        f'<text x="{x+half//2}" y="36" font-size="30" text-anchor="middle">{num}</text>'
+        f'<text x="{x+half//2}" y="52" font-size="10" text-anchor="middle">{label_txt}</text>'
+        f'<text class="dim" x="{x+half//2}" y="66" font-size="9" text-anchor="middle">{sub}</text>'
     )
 
 sub_cur = f"{cur_start} – {cur_end}" if cur_start else "—"
@@ -227,8 +236,8 @@ for i, (lang, b) in enumerate(top_langs):
     bw  = int(pct * BAR_W)
     rows_svg += (
         label(20, y+12, lang, size=11) +
-        f'<rect x="{BAR_X}" y="{y}" width="{bw}" height="13" fill="{ACCENT}"/>' +
-        label(BAR_X + bw + 6, y+11, f"{pct*100:.1f}%", size=9, color=DIM)
+        f'<rect class="bar" x="{BAR_X}" y="{y}" width="{bw}" height="13"/>' +
+        label(BAR_X + bw + 6, y+11, f"{pct*100:.1f}%", size=9, cls="dim")
     )
 
 (ROOT / "langs.svg").write_text(svg_wrap(W, H, rows_svg), encoding="utf-8")
@@ -254,7 +263,7 @@ for idx, d in enumerate(days):
     y2   = 20 + row2 * CELL
     c    = d["contributionCount"]
     ch   = RAMP[int(c / mx * (len(RAMP)-1))]
-    cells += f'<text x="{x2}" y="{y2+CELL-2}" font-size="9" fill="{ACCENT}">{ch}</text>'
+    cells += f'<text class="bar" x="{x2}" y="{y2+CELL-2}" font-size="9">{ch}</text>'
 
 month_labels = ""
 prev_m = None
@@ -263,7 +272,7 @@ for idx, d in enumerate(days):
     if m != prev_m:
         col2 = idx // 7
         mx2  = 20 + col2 * CELL
-        month_labels += label(mx2, H2-5, datetime.date(int(d["date"][:4]),int(m),1).strftime("%b"), size=8, color=DIM)
+        month_labels += label(mx2, H2-5, datetime.date(int(d["date"][:4]),int(m),1).strftime("%b"), size=8, cls="dim")
         prev_m = m
 
 (ROOT / "year.svg").write_text(svg_wrap(W2, H2, cells+month_labels), encoding="utf-8")
@@ -276,7 +285,7 @@ def make_heading(filename, text):
     W, H = 620, 28
     rule_x = len(text) * 7.5 + 24
     body = (
-        label(0, 18, text.lower(), size=12) +
+        f'<text x="0" y="18" font-size="12">{text.lower()}</text>' +
         hairline(rule_x, 12, W, 12)
     )
     (ROOT / filename).write_text(svg_wrap(W, H, body), encoding="utf-8")
